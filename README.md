@@ -11,3 +11,6 @@ The two files have the same structure, with just a small difference in the name 
 ## Mission:
 We aim to transform the landscape of US Census Demographic data, employing Tableau to paint a vivid tableau of insights. As we delve into the numbers, we'll unearth pivotal discoveries and illustrate them through an eclectic array of dynamic visual formats, each chosen to highlight the unique stories hidden within the data.
 
+![image](https://github.com/heshamosama165/US-Census-Demographic-Data-Tableau-/assets/106331921/f9ccd989-1240-454f-a2f6-d1e6eafb0a74)
+
+
