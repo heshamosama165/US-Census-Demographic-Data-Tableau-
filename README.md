@@ -1,5 +1,5 @@
 # US-Census-Demographic-Data-Tableau-
-##The art of Visualization
+## The art of Visualization
 
 The data here are taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates. The full datasets and much more can be found at the American Factfinder website. 
 
